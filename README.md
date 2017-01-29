@@ -1,0 +1,1 @@
+http://www.blog.btbw.pl/java/spring-boot-send-html-email/
